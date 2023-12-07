@@ -22,7 +22,7 @@ Estou constantemente aprimorando meus conhecimentos e aplicando, com o objetivo 
   - Microsserviços
 
 🌱 **Próximos Passos:**
-Estou empolgada para encarar novos desafios e colaborar em projetos inovadores.
+Estou animada para encarar novos desafios e colaborar em projetos inovadores.
 
 📫 **Como Entrar em Contato:**
 Conecte-se comigo no LinkedIn [https://www.linkedin.com/in/mychelle-rosa/] para conversarmos sobre tecnologia, compartilhar experiências ou explorar oportunidades de colaboração.🚀
