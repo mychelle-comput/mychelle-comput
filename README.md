@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá👋, meu nome é Mychelle!
+Estou constantemente aprimorando meus conhecimentos e aplicando, com o objetivo de construir uma base sólida em desenvolvimento desoftware.
 
-<!--
-**mychelle-comput/mychelle-comput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🚀 **Habilidades e Interesses:**
+  - Java(POO) | Spring Boot
+  - Desenvolvimento de APIs RESTful
+  - Bancos de Dados Relacionais (SQL)
+  - Testes Unitários e Integração
 
-Here are some ideas to get you started:
+  🔧 **Ferramentas e Tecnologias:**
+  - Git
+  - IntelliJ IDEA
+  - Maven
+  - Postman (para testes de API)
+  - MySQL Workbench
+  - Lombok (para simplificação de código em Java)
+  - JUnit 5 (para testes unitários em Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📚 **Explorando Atualmente:**
+  - Spring MVC: web app com Thymeleaf e Bootstrap
+  - Qualidade de Software (QA)
+  - Microsserviços
+
+🌱 **Próximos Passos:**
+Estou empolgada para encarar novos desafios e colaborar em projetos inovadores.
+
+📫 **Como Entrar em Contato:**
+Conecte-se comigo no LinkedIn [https://www.linkedin.com/in/mychelle-rosa/] para conversarmos sobre tecnologia, compartilhar experiências ou explorar oportunidades de colaboração.🚀
+
+
