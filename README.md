@@ -19,7 +19,6 @@ Estou constantemente aprimorando meus conhecimentos e aplicando, com o objetivo 
   📚 **Explorando Atualmente:**
   - Spring MVC: web app com Thymeleaf e Bootstrap
   - Qualidade de Software (QA)
-  - Microsserviços
 
 🌱 **Próximos Passos:**
 Estou animada para encarar novos desafios e colaborar em projetos inovadores.
