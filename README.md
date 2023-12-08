@@ -20,10 +20,19 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - Spring MVC: web app com Thymeleaf e Bootstrap
   - Qualidade de Software (QA)
 
+##
+
 🌱 **Próximos Passos:**
 Estou empolgada para encarar novos desafios e colaborar em projetos inovadores.
 
 📫 **Como Entrar em Contato:**
-Conecte-se comigo no LinkedIn [https://www.linkedin.com/in/mychelle-rosa/] para conversarmos sobre tecnologia, compartilhar experiências ou explorar oportunidades de colaboração.🚀
+Conecte-se comigo no LinkedIn ou Instragam, para conversarmos sobre tecnologia, compartilhar experiências ou explorar oportunidades de colaboração.🚀
+
+<a href="https://www.linkedin.com/in/mychelle-rosa/">
+<img  src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  
+<a href="https://instagram.com/mychelle.rosa">
+<img src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+
 
 
