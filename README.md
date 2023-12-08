@@ -21,7 +21,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - Qualidade de Software (QA)
 
 🌱 **Próximos Passos:**
-Estou animada para encarar novos desafios e colaborar em projetos inovadores.
+Estou empolgada para encarar novos desafios e colaborar em projetos inovadores.
 
 📫 **Como Entrar em Contato:**
 Conecte-se comigo no LinkedIn [https://www.linkedin.com/in/mychelle-rosa/] para conversarmos sobre tecnologia, compartilhar experiências ou explorar oportunidades de colaboração.🚀
