@@ -1,5 +1,5 @@
 ### Olá👋, meu nome é Mychelle!
-Estou constantemente aprimorando meus conhecimentos e aplicando, com o objetivo de construir uma base sólida em desenvolvimento desoftware.
+Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de construir uma base sólida em desenvolvimento desoftware.
 
   🚀 **Habilidades e Interesses:**
   - Java(POO) | Spring Boot
