@@ -6,6 +6,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - Desenvolvimento de APIs RESTful
   - Bancos de Dados Relacionais (SQL)
   - Testes Unitários e Integração
+  -  Hibernate e Spring JPA
 
   🔧 **Ferramentas e Tecnologias:**
   - Git
@@ -17,8 +18,8 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - JUnit 5 (para testes unitários em Java)
 
   📚 **Explorando Atualmente:**
-  - Microservices
-  - Qualidade de Software (QA)
+  - Microsserviços
+  - Quality Assurance (QA)
 
 ##
 
