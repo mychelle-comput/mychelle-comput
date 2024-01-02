@@ -17,7 +17,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - JUnit 5 (para testes unitários em Java)
 
   📚 **Explorando Atualmente:**
-  - Spring MVC: web app com Thymeleaf e Bootstrap
+  - Microservices
   - Qualidade de Software (QA)
 
 ##
