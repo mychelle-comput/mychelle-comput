@@ -20,6 +20,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   📚 **Explorando Atualmente:**
   - Microsserviços
   - Quality Assurance (QA)
+  - Cloud
 
 ##
 
