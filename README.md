@@ -16,6 +16,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - MySQL Workbench
   - Lombok (para simplificação de código em Java)
   - JUnit 5 (para testes unitários em Java)
+  - Selenium
 
   📚 **Explorando Atualmente:**
   - Microsserviços
