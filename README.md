@@ -17,6 +17,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - Lombok (para simplificação de código em Java)
   - JUnit 5 (para testes unitários em Java)
   - Selenium
+  - Flyway(Ferramenta de Migration)
 
   📚 **Explorando Atualmente:**
   - Microsserviços
