@@ -12,7 +12,7 @@ Estou  aprimorando meus conhecimentos e colocando em prática, com o objetivo de
   - Git
   - IntelliJ IDEA
   - Maven
-  - Postman (para testes de API)
+  - Postman/Insomnia (para testes de API)
   - MySQL Workbench
   - Lombok (para simplificação de código em Java)
   - JUnit 5 (para testes unitários em Java)
