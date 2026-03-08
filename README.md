@@ -44,7 +44,7 @@ Estou empolgada para encarar novos desafios com foco em Qualidade de Software e 
 
 📫 **Como Entrar em Contato:**
 
-Conecte-se comigo através do LinkedIn ou Instagram, para conversarmos sobre tecnologia e compartilhar experiências.🚀
+Conecte-se comigo através do LinkedIn, para conversarmos sobre tecnologia e compartilhar experiências.🚀
 
 <a href="https://www.linkedin.com/in/mychellerosa3/">
 <img  src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
