@@ -3,6 +3,7 @@
 Atuo como analista de QA focada em qualidade de software, testes manuais e automação. Experiência com Cypress, Postman, Jira e Qase, realizando testes funcionais, validação de APIs e análise de dados em NoSQL.
 
 Sempre em evolução na área de automação de testes e qualidade de software.
+
 QA Analyst | Test Automation | API Testing
 
  🚀 **Habilidades e Interesses:**
