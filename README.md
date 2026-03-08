@@ -49,8 +49,7 @@ Conecte-se comigo através do LinkedIn ou Instagram, para conversarmos sobre tec
 <a href="https://www.linkedin.com/in/mychellerosa3/">
 <img  src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   
-<a href="https://instagram.com/mychelle.rosa">
-<img src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+
 
 
 
